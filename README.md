@@ -1,10 +1,10 @@
-**Hi I am Krish.**
+## Hi I am Krish.
 
 I am a learner who is always interested in learning new things.
 
-If you want any help you can contact me through krishagarwal2811@gmail.com and i will always be ready to help you.
+I am learning web developement from past two years. Also i have learned few more languages recently. I am not very old, I am just a teenager.
 
-**My skills :**
+## My skills :
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
