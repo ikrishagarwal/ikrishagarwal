@@ -32,7 +32,10 @@ If you want any help you can contact me through krishagarwal2811@gmail.com and i
 
 ![My github stats](https://github-readme-stats.codestackr.vercel.app/api?username=krishagarwal2811&show_icons=true&theme=radical&hide=issues&hide_border=true)
 
+## My Activity
+
 <!--START_SECTION:activity-->
+
 1. 🗣 Commented on [#5](https://github.com/codeninja02/swalt/issues/5) in [codeninja02/swalt](https://github.com/codeninja02/swalt)
 2. ❗️ Opened issue [#5](https://github.com/codeninja02/swalt/issues/5) in [codeninja02/swalt](https://github.com/codeninja02/swalt)
 3. ❗️ Opened issue [#4](https://github.com/codeninja02/swalt/issues/4) in [codeninja02/swalt](https://github.com/codeninja02/swalt)
