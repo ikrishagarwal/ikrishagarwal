@@ -30,6 +30,8 @@ I am learning web developement from past two years. Also i have learned few more
 
 <br /><br />
 
+## My stats
+
 ![My github stats](https://github-readme-stats.codestackr.vercel.app/api?username=krishagarwal2811&show_icons=true&theme=radical&hide=issues&hide_border=true)
 
 ## My Activity
