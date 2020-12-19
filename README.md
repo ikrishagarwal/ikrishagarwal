@@ -1,6 +1,6 @@
 ## Hi I am Krish.
 
-I am a learner who is always interested in learning new things.
+I am interested in learning new things.
 
 I am learning web developement from past two years. Also i have learned few more languages recently. I am not very old, I am just a teenager.
 
