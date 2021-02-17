@@ -33,7 +33,7 @@ I am learning web developement from past two years. Also i have learned few more
 ## My stats
 
 ![My github stats](https://github-readme-stats.codestackr.vercel.app/api?username=krishagarwal2811&show_icons=true&theme=radical&hide=issues&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KrishAgarwal2811&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KrishAgarwal2811)
 ## My Activity
 
 <!--START_SECTION:activity-->
