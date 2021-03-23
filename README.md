@@ -38,7 +38,7 @@ I am learning web developement from past two years. Also i have learned few more
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#5](https://github.com/codeninja02/swalt/issues/5) in [codeninja02/swalt](https://github.com/codeninja02/swalt)
+1. 💪 Opened PR [#2](https://github.com/reconlx/reconlx-api/pull/2) in [reconlx/reconlx-api](https://github.com/reconlx/reconlx-api)
 2. ❗️ Opened issue [#5](https://github.com/codeninja02/swalt/issues/5) in [codeninja02/swalt](https://github.com/codeninja02/swalt)
 3. ❗️ Opened issue [#4](https://github.com/codeninja02/swalt/issues/4) in [codeninja02/swalt](https://github.com/codeninja02/swalt)
 4. 🗣 Commented on [#2](https://github.com/Harshit-Kapoor/Background-Generator/issues/2) in [Harshit-Kapoor/Background-Generator](https://github.com/Harshit-Kapoor/Background-Generator)
