@@ -38,8 +38,8 @@ I am learning web developement from past two years. Also i have learned few more
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#2](https://github.com/reconlx/reconlx-api/pull/2) in [reconlx/reconlx-api](https://github.com/reconlx/reconlx-api)
-2. ❗️ Opened issue [#5](https://github.com/codeninja02/swalt/issues/5) in [codeninja02/swalt](https://github.com/codeninja02/swalt)
+1. 🗣 Commented on [#2](https://github.com/KrishAgarwal2811/gify-app/issues/2) in [KrishAgarwal2811/gify-app](https://github.com/KrishAgarwal2811/gify-app)
+2. 💪 Opened PR [#2](https://github.com/reconlx/reconlx-api/pull/2) in [reconlx/reconlx-api](https://github.com/reconlx/reconlx-api)
 3. ❗️ Opened issue [#4](https://github.com/codeninja02/swalt/issues/4) in [codeninja02/swalt](https://github.com/codeninja02/swalt)
 4. 🗣 Commented on [#2](https://github.com/Harshit-Kapoor/Background-Generator/issues/2) in [Harshit-Kapoor/Background-Generator](https://github.com/Harshit-Kapoor/Background-Generator)
 5. ❗️ Opened issue [#2](https://github.com/Harshit-Kapoor/Background-Generator/issues/2) in [Harshit-Kapoor/Background-Generator](https://github.com/Harshit-Kapoor/Background-Generator)
