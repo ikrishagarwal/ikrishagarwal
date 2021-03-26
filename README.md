@@ -34,6 +34,10 @@ I am learning web developement from past two years. Also i have learned few more
 
 ![My github stats](https://github-readme-stats.codestackr.vercel.app/api?username=krishagarwal2811&show_icons=true&theme=radical&hide=issues&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KrishAgarwal2811)
+
+## Contact Me 
+I am mostly active on <a href="https://discord.com/users/701008374883418113/">Discord</a> you can directly DM me at <b>Krish#8298</b>. You can also contact me at <a href="https://www.sololearn.com/Profile/14466758">Sololearn</a>.
+
 ## My Activity
 
 <!--START_SECTION:activity-->
