@@ -42,9 +42,9 @@ I am mostly active on <a href="https://discord.com/users/701008374883418113/">Di
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#21](https://github.com/saanuregh/discord.js-pagination/issues/21) in [saanuregh/discord.js-pagination](https://github.com/saanuregh/discord.js-pagination)
-2. 🗣 Commented on [#2](https://github.com/KrishAgarwal2811/gify-app/issues/2) in [KrishAgarwal2811/gify-app](https://github.com/KrishAgarwal2811/gify-app)
-3. 💪 Opened PR [#2](https://github.com/reconlx/reconlx-api/pull/2) in [reconlx/reconlx-api](https://github.com/reconlx/reconlx-api)
-4. 🗣 Commented on [#2](https://github.com/Harshit-Kapoor/Background-Generator/issues/2) in [Harshit-Kapoor/Background-Generator](https://github.com/Harshit-Kapoor/Background-Generator)
+1. 🗣 Commented on [#4](https://github.com/saanuregh/discord.js-pagination/issues/4) in [saanuregh/discord.js-pagination](https://github.com/saanuregh/discord.js-pagination)
+2. ❗️ Opened issue [#21](https://github.com/saanuregh/discord.js-pagination/issues/21) in [saanuregh/discord.js-pagination](https://github.com/saanuregh/discord.js-pagination)
+3. 🗣 Commented on [#2](https://github.com/KrishAgarwal2811/gify-app/issues/2) in [KrishAgarwal2811/gify-app](https://github.com/KrishAgarwal2811/gify-app)
+4. 💪 Opened PR [#2](https://github.com/reconlx/reconlx-api/pull/2) in [reconlx/reconlx-api](https://github.com/reconlx/reconlx-api)
 5. ❗️ Opened issue [#2](https://github.com/Harshit-Kapoor/Background-Generator/issues/2) in [Harshit-Kapoor/Background-Generator](https://github.com/Harshit-Kapoor/Background-Generator)
 <!--END_SECTION:activity-->
