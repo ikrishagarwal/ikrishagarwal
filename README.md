@@ -1,50 +1,38 @@
-## Hi I am Krish.
+### Hello, I am Krish
 
 I am interested in learning new things.
 
-I am learning web developement from past two years. Also i have learned few more languages recently. I am not very old, I am just a teenager.
+I am indulged in web developement from past two years. Also i have learned few more languages recently.
 
-## My skills :
+<table>
+<td align="center" style="padding=0;width=50%;">
+<img align="center" style="padding=0;" src="https://github-readme-stats.codestackr.vercel.app/api?username=krishagarwal2811&show_icons=true&theme=radical&hide=issues&hide_border=true" alt="Github Stats"/>
+</td>
+<td align="center" style="padding=0;width=50%;"td>
+<img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrishAgarwal2811" alt="My langs"/>
+</td>
+</table>
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+### Skills :
 
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
 
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img alt="NodeJS" src="https://img.shields.io/badge/discord.js%20-4477B8.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
 
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
 
-<img align="left" alt="Git" width="26px" src="https://iconape.com/wp-content/files/ni/64759/png/git-icon.png" />
+<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
 
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img alt="Repl.it" src="https://img.shields.io/badge/Repl.it%20-%230D101E.svg?&style=for-the-badge&logo=Repl.it&logoColor=white"/>
 
-<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
+<img alt="Unity" src="https://img.shields.io/badge/unity%20-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white"/>
 
-<img align="left" alt="java" width="26px" src="https://www.brandeps.com/logo-download/J/Java-logo-vector-01.svg"/>
+### Contact Me
 
-<br /><br />
-
-## My stats
-
-![My github stats](https://github-readme-stats.codestackr.vercel.app/api?username=krishagarwal2811&show_icons=true&theme=radical&hide=issues&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KrishAgarwal2811)
-
-## Contact Me 
-I am mostly active on <a href="https://discord.com/users/701008374883418113/">Discord</a> you can directly DM me at <b>Krish#8298</b>. You can also contact me at <a href="https://www.sololearn.com/Profile/14466758">Sololearn</a>.
-
-## My Activity
-
-<!--START_SECTION:activity-->
-
-1. 🗣 Commented on [#4](https://github.com/saanuregh/discord.js-pagination/issues/4) in [saanuregh/discord.js-pagination](https://github.com/saanuregh/discord.js-pagination)
-2. ❗️ Opened issue [#21](https://github.com/saanuregh/discord.js-pagination/issues/21) in [saanuregh/discord.js-pagination](https://github.com/saanuregh/discord.js-pagination)
-3. 🗣 Commented on [#2](https://github.com/KrishAgarwal2811/gify-app/issues/2) in [KrishAgarwal2811/gify-app](https://github.com/KrishAgarwal2811/gify-app)
-4. 💪 Opened PR [#2](https://github.com/reconlx/reconlx-api/pull/2) in [reconlx/reconlx-api](https://github.com/reconlx/reconlx-api)
-5. ❗️ Opened issue [#2](https://github.com/Harshit-Kapoor/Background-Generator/issues/2) in [Harshit-Kapoor/Background-Generator](https://github.com/Harshit-Kapoor/Background-Generator)
-<!--END_SECTION:activity-->
+I am mostly active on <a href="https://discord.com/users/701008374883418113/">Discord</a> you can directly DM me at <b>Krish#8298</b>. You can also contact me at <a href="https://www.sololearn.com/Profile/14466758">Sololearn</a> (Sololearn has a DM support only for mobile apps for now).
