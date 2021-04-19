@@ -9,7 +9,7 @@ I am indulged in web developement from past two years. Also i have learned few m
 <table>
 <tr>
 <td align="center" style="padding:0;width:50%;">
-<img align="center" style="padding:0;" src="https://github-readme-stats.vercel.app/api?username=krishagarwal2811&show_icons=true&theme=radical&hide=issues&hide_border=true" alt="Github Stats"/>
+<img align="center" style="padding:0;" src="https://github-readme-stats.vercel.app/api?username=krishagarwal2811&show_icons=true&theme=radical&hide=issues&hide_border=true" alt="Github Stats" />
 </td>
 <td align="center" style="padding:0;width:50%;"td>
 <img align="center" style="padding:0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrishAgarwal2811" alt="My langs"/>
