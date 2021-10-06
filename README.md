@@ -43,4 +43,4 @@ I am indulged in web developement from past two years. Also i have learned few m
 
 ### Contact Me
 
-I am mostly active on <a href="https://discord.com/users/701008374883418113/">Discord</a> you can directly DM me at <b>Krish#8298</b>. You can also contact me at <a href="https://www.sololearn.com/Profile/14466758">Sololearn</a> (Sololearn has a DM support only for mobile apps for now).
+I am mostly active on <a href="https://discord.com/users/701008374883418113/">Discord</a> you can directly DM me or join my <a href="https://krix.vercel.app/support">server</a>. You can also contact me at <a href="https://www.sololearn.com/Profile/14466758">Sololearn</a> (Sololearn has a DM support only for mobile apps for now).
