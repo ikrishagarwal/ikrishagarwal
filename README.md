@@ -6,11 +6,13 @@ I am interested in learning new things.
 
 I am indulged in web developement along with many backend projects. I have also learnt a few more languages recently.
 
-<p align='center'>
+<p>
   <a href='https://github.com/KrishAgarwal2811'>
     <img align="center" style="padding:0;" height:'180em' src="https://github-readme-stats.vercel.app/api?username=krishagarwal2811&show_icons=true&theme=radical&hide=issues&count_private=true" alt="Github Stats" />
     <br /><br />
     <img align="center" style="padding:0;" height='180em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrishAgarwal2811&layout=compact&show_icons=true&theme=radical&count_private=true" alt="My langs"/>
+    <br /><br />
+    <img align="center" style="padding:0;" height='180em' src="https://github-readme-stats.vercel.app/api/wakatime?username=krish&show_icons=true&theme=vision-friendly-dark" alt="My langs"/>
   </a>
 </p>
 
