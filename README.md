@@ -1,15 +1,16 @@
 ### Hello, I am Krish
 
-<img height="110px" alt="Err" src="https://media.tenor.com/images/7a68509a5b8afea7110867249a172185/tenor.gif" align="right"/>
+<img height="150em" alt="Hello GIF" src="https://media.tenor.com/images/7a68509a5b8afea7110867249a172185/tenor.gif" align="right"/>
 
 I am interested in learning new things.
 
-I am indulged in web developement from past two years. Also i have learned few more languages recently.
+I am indulged in web developement along with many backend projects. I have also learnt a few more languages recently.
 
 <p align='center'>
   <a href='https://github.com/KrishAgarwal2811'>
-    <img align="center" style="padding:0;" height:'180em' src="https://github-readme-stats.vercel.app/api?username=krishagarwal2811&show_icons=true&theme=radical&hide=issues" alt="Github Stats" />
-    <img align="center" style="padding:0;" height='180em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrishAgarwal2811&layout=compact&show_icons=true&theme=radical" alt="My langs"/>
+    <img align="center" style="padding:0;" height:'180em' src="https://github-readme-stats.vercel.app/api?username=krishagarwal2811&show_icons=true&theme=radical&hide=issues&count_private=true" alt="Github Stats" />
+    <br /><br />
+    <img align="center" style="padding:0;" height='180em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrishAgarwal2811&layout=compact&show_icons=true&theme=radical&count_private=true" alt="My langs"/>
   </a>
 </p>
 
