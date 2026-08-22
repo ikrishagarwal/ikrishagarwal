@@ -7,9 +7,9 @@ I do web developement along with many backend projects. I also have slight incli
 
 <p>
   <a href='https://github.com/ikrishagarwal'>
-    <img align="center" style="padding:0;" height='180em' src="https://github-readme-stats.vercel.app/api?username=ikrishagarwal&show_icons=true&theme=radical&hide=issues&count_private=true" alt="Github Stats" />
+    <img align="center" style="padding:0;" height='180em' src="https://github-stats-extended.vercel.app/api?username=ikrishagarwal&include_all_commits=true&theme=tokyonight" alt="Github Stats" />
     <br /><br />
-    <img align="center" style="padding:0;" height='180em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikrishagarwal&layout=compact&show_icons=true&theme=radical&count_private=true" alt="My langs"/>
+    <img align="center" style="padding:0;" height='180em' src="https://github-stats-extended.vercel.app/api/top-langs?username=ikrishagarwal&layout=compact&langs_count=6&theme=tokyonight" alt="My langs"/>
   </a>
 </p>
 
