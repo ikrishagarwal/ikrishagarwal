@@ -57,9 +57,14 @@ I do web developement along with many backend projects. I also have slight incli
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
 </p>
+
 ### Contact Me
 
 I am mostly active on <a href="https://discord.com/users/701008374883418113/">Discord</a> you can directly DM me or join my <a href="https://krix.vercel.app/support">server</a>.
 
 
 [![Dsicord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://instagram.com/coffee.to.code.machine) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/coffee.to.code.machine) [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/u/KrishAgarwal)
+
+<br />
+
+![](https://komarev.com/ghpvc/?username=ikrishagarawl)
